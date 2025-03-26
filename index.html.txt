@@ -1,0 +1,7 @@
+index.html
+
+<div class="container">
+    <h1>استغفر الله</h1>
+    <button id="counterButton">اضغط هنا</button>
+    <p>عدد الاستغفار: <span id="count">0</span></p>
+</div>
